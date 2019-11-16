@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/z3cka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ca.sey.gr
+  * I am z3cka (https://keybase.io/z3cka) on keybase.
+  * I have a public key with fingerprint 717E 87DA 9B61 8C2C 2EA9  C7C1 437B D8DB 265E 8B31
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011f78fb0e4d741d5e77ae8cc2405640f04c14f2ea571a54f46c5cf01f24717b000a",
+      "fingerprint": "717e87da9b618c2c2ea9c7c1437bd8db265e8b31",
+      "host": "keybase.io",
+      "key_id": "437bd8db265e8b31",
+      "kid": "01011f78fb0e4d741d5e77ae8cc2405640f04c14f2ea571a54f46c5cf01f24717b000a",
+      "uid": "4ce4f9fb77c99e6499ff3c416c837419",
+      "username": "z3cka"
+    },
+    "service": {
+      "hostname": "ca.sey.gr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573878503,
+  "expire_in": 157680000,
+  "prev": "1faed2f65d57dd2cfcf9d644cb998f5c7470789eabf6e8a65a395702159999cb",
+  "seqno": 73,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBRRGF5LKwUrS4KUQkejMNvmfmbWMggqH0IKBUWs7cy57A7azDo7
+3nbbhaAHn0pCLQjqISjQJAhlfUjyFhQlGz1kPhRBVEhRSBKVZZ0xe+ux8/Jzvv/7
+vv/CP5W72peTMdaeEt3E0Z6MR+MXW30n0rF3cc6wcScXiHNNZDmQZkyibrDJxFyA
+4wVeECjQqMETGQNZwAoBABINIVHmFVXmKS8jQaYigQoQoCJTWUUKorxARRkIwOB5
+HnLlHDWtEHEijmm5zJYliAYw1A1V0JCImFpHgPlIwMAaNkRVIZohCUwYtqOegjVn
+wCjxmzbD2Ce43N4/+P+579Y/dRCRqU4NAJCuE1XWdUolJAsq0iRmrnvEKHEseJow
+dkxCTZBLlHMMajMR8bbqjbGSRtAfJZ3+kMNUEcd2bWQ3MzjsupFowJO5nRGP106M
+4IpD0DAtzDbIFG3EiZq2xQUExkSu6VkKCpA0oCm8VM6RjojpkKBpLcOqxubgvTqk
+jVkKFBIsUlXBCsBYRBRRHauyjAxd16iCgAx4oOkEGlQlGlQVKOkK4EVB0dlDBufN
+1GLZXACwUi4MMc+oGbKg2+oQLjEx1pjpy8jxrcla5Z2WLyd749+D+9WzznfjQ1nZ
+wIPZrvbzbfVL+Ze02IldInoyo74d6s6oLhqOn01OL+kF/YeyFr5jurVHHr0O8ZV1
+8x9uz3Y3jJ7JfzEXPjzTUXwyFiu8CF8Vj0xP1u8Wcwf3zA1Xk6qZVUNrz31Kbggf
+uVVBNteO+hsaTy369j/tK6nL693bO8ih8NH3z76MZd65vbOseXH8Da7E8cuw4Wd/
+08HXqwsv1Paj0r70x+TNLdKGx+n1fUmpbqDCb4BN245f3Vc0UtU8+fnetZZUdtmB
+4ofHlG8nU1Mv16TmEzWB3LmS+PbW+bpjlV2hvNczt17eLy34HF7g03cnUm59Plpf
+W3P5R8uO9NfnBb8BdM87rw==
+=6xHo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/z3cka
+
+==================================================================
